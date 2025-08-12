@@ -1,0 +1,19 @@
+.dale-color {
+    background-color: rgb(246, 172, 183);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.grande {
+    font-size: 24px;
+}
+
+#letras {
+    color: #0808ec;
+    font-size: 36px;
+}
+
+#fondo {
+    background-color: hsl(128, 93%, 71%);
+    font-size: 24px;
+    font-weight: bold;
+}
